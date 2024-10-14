@@ -9,7 +9,6 @@ author:             Isaac Elliott
 maintainer:         isaace71295@gmail.com
 category:           Data
 build-type:         Simple
-extra-doc-files:    CHANGELOG.md
 
 common warnings
     ghc-options: -Wall
